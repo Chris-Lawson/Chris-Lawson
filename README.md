@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Node.js and implementation of Javascript is server settings.
+
+👯 I’m looking to collaborate on fun projects
+
 <!--
 **Chris-Lawson/Chris-Lawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
